@@ -1,0 +1,2 @@
+# Business-Intelligence-Visualization-of-Global-Spotify-Trends-and-Seasonality
+This project focuses on analyzing Spotify music consumption data, exploring global trends and seasonal patterns, as well as investigating the acoustic "DNA" of different music genres. The project employs both Tableau and Power BI to create interactive dashboards showcasing geographic, temporal, and genre-based analyses.
