@@ -50,6 +50,7 @@ This project focuses on analyzing Spotify music consumption data, exploring glob
 The repository does **not** include the raw datasets. Please download the datasets from the following links and save them into the `data/` folder (filenames used in the project are indicated in the README `data/` section):
 
 Links:
+
 charts -> https://www.kaggle.com/datasets/dhruvildave/spotify-charts
 
 dna -> https://www.kaggle.com/datasets/melissamonfared/spotify-tracks-attributes-and-popularity
