@@ -51,7 +51,9 @@ The repository does **not** include the raw datasets. Please download the datase
 
 Links:
 charts -> https://www.kaggle.com/datasets/dhruvildave/spotify-charts
+
 dna -> https://www.kaggle.com/datasets/melissamonfared/spotify-tracks-attributes-and-popularity
+
 seasonality -> https://www.kaggle.com/datasets/ivannatarov/spotify-daily-top-200-songs-with-genres-20172021
 
 **Suggested local filenames (place inside `data/`):**
