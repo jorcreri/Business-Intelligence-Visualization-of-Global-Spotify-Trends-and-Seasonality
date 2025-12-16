@@ -41,7 +41,6 @@ This project focuses on analyzing Spotify music consumption data, exploring glob
    ```bash
    pip install pandas numpy matplotlib seaborn jupyter
    ```  
-   (Add any additional libraries used in notebooks as needed.)  
 4. Open Tableau workbooks with Tableau Desktop/Public and Power BI files with Power BI Desktop.  
 5. Download the datasets listed in `data/links.txt` and place them in the `data/` folder (see below).  
 6. Consult `reports/Reporte_Visualización.pdf` for methodology and detailed findings.
