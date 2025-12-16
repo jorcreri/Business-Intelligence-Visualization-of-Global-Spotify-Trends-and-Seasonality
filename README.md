@@ -61,7 +61,6 @@ seasonality -> https://www.kaggle.com/datasets/ivannatarov/spotify-daily-top-200
 - `charts_grouped.csv` — processed grouped chart data (or the source CSV you generate after aggregation)  
 - `spotify_mensual_limpio.csv` — cleaned monthly Spotify dataset (built from the seasonality dataset)  
 - `atb_pop_limpio.csv` / `attributes_popularity.csv` — cleaned attributes & popularity datasets  
-- `data.csv` — (any other raw CSV used for intermediate steps)
 
 > Tip: keep original downloaded filenames and add a note in `data/links.txt` if you rename them.
 
